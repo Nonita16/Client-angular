@@ -33,7 +33,7 @@
     "@progress/kendo-angular-popup": "^2.5.0",
     "@progress/kendo-data-query": "^1.5.1",
     "@progress/kendo-drawing": "^1.5.11",
-    "@progress/kendo-theme-default": "^3.5.1",
+    "@progress/kendo-theme-default": "^3.7.0",
     "@progress/kendo-theme-material": "^2.4.1",
     "angular": "^1.7.8",
     "bootstrap": "4.1.3",
