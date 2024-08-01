@@ -36,7 +36,7 @@
     "@progress/kendo-theme-default": "^3.5.1",
     "@progress/kendo-theme-material": "^2.4.1",
     "angular": "^1.7.8",
-    "bootstrap": "4.1.3",
+    "bootstrap": "5.0.0",
     "core-js": "2.5.4",
     "hammerjs": "^2.0.8",
     "rxjs": "~6.3.3",
